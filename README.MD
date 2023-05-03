@@ -1,3 +1,3 @@
 There are two versions of the list available, which can be accessed from the source files. If you intend to utilize the Universal-Android-Debloater version, please visit https://github.com/0x192/universal-android-debloater/releases. Alternatively, if you prefer to use the script version, you will need to obtain adb tools and place them in the same folder as the script and then run debloater.bat (if you're on windows) or debloater.sh (if you're on linux/(and maybe mac idk)
 Please report your issues to the issues section I'll check the issues tab every once in a while.
-Also here's a link that has a list of foss applications for android https://github.com/offa/android-foss.
+Also here's a link that has a list of foss applications for android https://github.com/offa/android-foss. [Android-FOSS](https://github.com/offa/android-foss)
