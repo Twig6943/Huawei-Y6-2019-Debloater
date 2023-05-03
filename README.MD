@@ -1,1 +1,1 @@
-There are 2 versions of the list which you can see over at the source files.
+There are two versions of the list available, which can be accessed from the source files. If you intend to utilize the Universal-Android-Debloater version, please visit https://github.com/0x192/universal-android-debloater/releases. Alternatively, if you prefer to use the batch script version, you will need to obtain adb tools and place them in the same folder as the script.
