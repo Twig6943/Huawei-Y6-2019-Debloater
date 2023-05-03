@@ -45,7 +45,6 @@ com.mediatek.wfo.impl
 com.swiftkey.swiftkeyconfigurator
 
 //Safe to uninstall from "All" tab
-com.android.documentsui
 com.android.calendar
 com.android.emergency
 com.huawei.hidisk
