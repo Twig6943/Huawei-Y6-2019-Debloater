@@ -43,7 +43,6 @@ adb uninstall com.huawei.powergenie
 adb uninstall com.huawei.trustagent
 adb uninstall com.mediatek.wfo.impl
 adb uninstall com.swiftkey.swiftkeyconfigurator
-adb uninstall com.android.documentsui
 adb uninstall com.android.calendar
 adb uninstall com.android.emergency
 adb uninstall com.huawei.hidisk
