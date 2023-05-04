@@ -52,7 +52,6 @@ adb uninstall com.android.bookmarkprovider
 adb uninstall com.android.email
 adb uninstall com.android.gallery3d
 adb uninstall com.android.providers.calendar
-adb uninstall com.android.providers.contacts
 adb uninstall com.android.providers.downloads
 adb uninstall com.android.providers.downloads.ui
 adb uninstall com.android.vending
