@@ -54,7 +54,6 @@ com.android.contacts
 com.android.bookmarkprovider
 com.android.email
 com.android.gallery3d
-com.android.providers.calendar
 com.android.providers.contacts
 com.android.providers.downloads
 com.android.providers.downloads.ui
